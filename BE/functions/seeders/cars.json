@@ -1,0 +1,86 @@
+[
+    {
+        "id": 1,
+        "car_name": "Toyota Corolla",
+        "image": "https://assets-eu-01.kc-usercontent.com/bb5aba31-d98c-0160-8548-418b3723c58e/8793a803-a5e8-49da-a936-565eeaa5c2d5/Toyota%20Corolla%20(2).jpg",
+        "day_rate": 50,
+        "month_rate": 200
+    },
+    {
+        "id": 2,
+        "car_name": "Honda Accord",
+        "image": "https://cdn.carbuzz.com/car-thumbnails/original/8000/200/8277.jpg",
+        "day_rate": 60,
+        "month_rate": 200
+    },
+    {
+        "id": 3,
+        "car_name": "Ford Mustang",
+        "image": "https://www.carscoops.com/wp-content/uploads/2019/04/7b78edbb-ford-mustang-new-york-auto-show-.jpg",
+        "day_rate": 80,
+        "month_rate": 200
+    },
+    {
+        "id": 4,
+        "car_name": "Chevrolet Camaro",
+        "image": "https://www.hdcarwallpapers.com/walls/2019_chevrolet_camaro_rs_1le_4k-HD.jpg",
+        "day_rate": 75,
+        "month_rate": 200
+    },
+    {
+        "id": 5,
+        "car_name": "Dodge Challenger",
+        "image": "https://www.clubalfa.it/wp-content/uploads/2020/05/Dodge-Challenger-TA-2020-4-scaled.jpg",
+        "day_rate": 70,
+        "month_rate": 200
+    },
+    {
+        "id": 6,
+        "car_name": "Nissan Altima",
+        "image": "https://www.motortrend.com/uploads/sites/10/2015/11/2013-nissan-altima-sl-sedan-angular-front.png",
+        "day_rate": 55,
+        "month_rate": 200
+    },
+    {
+        "id": 7,
+        "car_name": "Hyundai Elantra",
+        "image": "https://cdn.motor1.com/images/mgl/nQRjG/s1/2017-hyundai-elantra-sport-review.jpg",
+        "day_rate": 45,
+        "month_rate": 200
+    },
+    {
+        "id": 8,
+        "car_name": "Kia Optima",
+        "image": "https://www.autodetective.com/uploads/photos/kia/optima/2017/1656624.jpg",
+        "day_rate": 40,
+        "month_rate": 200
+    },
+    {
+        "id": 9,
+        "car_name": "Volkswagen Jetta",
+        "image": "https://www.automobilesreview.com/gallery/2018-volkswagen-jetta/2018-volkswagen-jetta-01.jpg",
+        "day_rate": 35,
+        "month_rate": 200
+    },
+    {
+        "id": 10,
+        "car_name": "BMW 3 Series",
+        "image": "https://assets.whichcar.com.au/image/upload/s--ykCJyqjY--/ar_1.9047619047619047,c_fill,f_auto,q_auto:good/c_scale,w_1200/v1/archive/whichcar/2016/04/26/3431/BMW-330i-M-Sport-2016-drive-main.jpg",
+        "day_rate": 65,
+        "month_rate": 200
+    },
+    {
+        "id": 11,
+        "car_name": "Mercedes-Benz C-Class",
+        "image": "https://cdn.carbuzz.com/gallery-images/2021-mercedes-benz-c-class-coupe-front-view-driving-carbuzz-589843-1600.jpg",
+        "day_rate": 85,
+        "month_rate": 200
+    },
+    {
+        "id": 12,
+        "car_name": "Audi A4",
+        "image": "https://wallpapercave.com/wp/wp1849615.jpg",
+        "day_rate": 90,
+        "month_rate": 200
+    }
+]
